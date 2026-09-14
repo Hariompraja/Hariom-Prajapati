@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basanagouda</h1>
+<h1 align="center">Hi 👋, I'm Hariom Prajapati</h1>
 
 <div align="center">
   <img alt="Coding" width="400" src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
@@ -7,11 +7,23 @@
 <h3 align="center">A passionate Android App developer from India</h3>
 
 
-- 🔭 I’m currently working on **Kotlin project**
+🔭 I’m currently working on
+   TRACE — an AI-powered Process Intelligence platform
 
-- 🌱 I’m currently Exploring **App Development and also KMP**
+👯 I’m looking to collaborate on
+   AI/ML, Data Science, and Agentic AI projects
 
-- 👯 I’m looking to collaborate on **open source**
+🤝 I’m looking for help with
+   Building scalable AI agents and production-ready ML systems
+
+🌱 I’m currently learning
+   Advanced DSA, Python, SQL, Git, Machine Learning & Agentic AI
+
+💬 Ask me about
+   Python, DSA, Data Science, Machine Learning & AI
+
+⚡ Fun fact
+   I enjoy turning real-world problems into data-driven solutions 🚀
 
 
 
